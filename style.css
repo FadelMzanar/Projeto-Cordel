@@ -83,12 +83,10 @@ section > div > p{
     background-image: url(Image/background001.jpg);
     background-size: cover;
     background-position: right center;
-    background-attachment: fixed;
 }
 
 .imagem2{
     background-image: url(Image/background002.jpg);
-    background-attachment: fixed;
     background-size: cover;
     background-position: right center;
 }
