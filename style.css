@@ -44,7 +44,7 @@ h1{
 }
 
 header > p {
-    font-size: 1vw;
+    font-size: 1.5vw;
     padding-bottom: 50px;
 }
 
@@ -62,7 +62,7 @@ a:hover{
 div{
     padding-top: 10vh;
     padding-bottom: 10vh;
-    padding-left: 2vw;
+    padding-left: 3vw;
     font-family: var(--fonte-poesia);
     font-size: 4vw;
 }
@@ -73,9 +73,6 @@ div{
 }
 
 
-
-
-
 section > div > p{
     background-color: rgba(0, 0, 0, 0.486);
     width: 50vw;
@@ -84,12 +81,16 @@ section > div > p{
 
 .imagem1{
     background-image: url(Image/background001.jpg);
+    background-size: cover;
+    background-position: right center;
     background-attachment: fixed;
 }
 
 .imagem2{
     background-image: url(Image/background002.jpg);
     background-attachment: fixed;
+    background-size: cover;
+    background-position: right center;
 }
 
 
