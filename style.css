@@ -28,7 +28,6 @@ body{
     background-color: black;
     color: white;
     text-align: center;
-    
 
 }
 
@@ -68,8 +67,7 @@ div{
 }
 
 .fundo-branco{
-    background-color: white;
-    
+    background-color: white;   
 }
 
 
@@ -83,12 +81,14 @@ section > div > p{
     background-image: url(Image/background001.jpg);
     background-size: cover;
     background-position: right center;
+    box-shadow: 0px 10px 10px 10px rgba(0, 0, 0, 0.521)
 }
 
 .imagem2{
     background-image: url(Image/background002.jpg);
     background-size: cover;
     background-position: right center;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.521)
 }
 
 
